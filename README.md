@@ -1,5 +1,5 @@
 #Template-CI
-![alt text] (https://github.com/ZulfanoRp/Template-CI/blob/master/1.png)
+![alt text] https://github.com/ZulfanoRp/Template-CI/blob/master/1.png
 #Template-CI
 ![alt text] (https://github.com/ZulfanoRp/Template-CI/blob/master/2.png)
 #Template-CI
